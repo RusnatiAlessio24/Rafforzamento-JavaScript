@@ -1,0 +1,15 @@
+#risultato {
+    width: 300px;
+    height: 100px;
+    margin-top: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 30px;
+    color: white;
+
+    background-color: lightgray;
+    transition: background 0.5s;
+}
